@@ -28,7 +28,7 @@ You can download the dataset directly using `wget`:
 mkdir -p data && cd data
 
 # Download UCSD Dataset
-wget http://www.svcl.ucsd.edu/datasets/anomaly/UCSD_Anomaly_Dataset.tar.gz
+wget http://www.svcl.ucsd.edu/projects/anomaly/UCSD_Anomaly_Dataset.tar.gz
 
 # Extract the file
 tar -xvf UCSD_Anomaly_Dataset.tar.gz
